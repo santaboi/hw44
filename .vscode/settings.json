@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp"
+    }
+}
